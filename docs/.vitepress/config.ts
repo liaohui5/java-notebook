@@ -16,8 +16,8 @@ const nav = [
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
-  title: "notebook of study rust",
-  description: "notebook of study rust",
+  title: "Java",
+  description: "学习 Java 的一些笔记",
 
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],

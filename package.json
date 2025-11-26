@@ -1,7 +1,7 @@
 {
-  "name": "rust-notebook",
+  "name": "java-notebook",
   "version": "1.0.0",
-  "description": "notebook of study rust",
+  "description": "notebook of study java",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --port 4444",
